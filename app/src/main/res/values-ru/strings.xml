@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">kHelper</string>
+    <string name="mathBtnText">Математика</string>
+    <string name="infoBtnText">Информация</string>
+    <string name="author">KoreN-</string>
+    <string name="infoText">"Автор : "</string>
+    <string name="quadratic_equation_text">Квадратное уравнение</string>
+    <string name="quadEquationText">Решение уравнения вида ax^2+bx+c=0</string>
+    <string name="enterAText">Введите коэфициент а :</string>
+    <string name="enterBText">Введите коэфициент b :</string>
+    <string name="enterCText">Введите коэфициент c :</string>
+    <string name="yourEquationText">"Ваше уравнение : "</string>
+    <string name="solveItText">Решить!</string>
+    <string name="noSolutions">Уравнение не имеет решений</string>
+</resources>

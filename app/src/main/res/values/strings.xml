@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">kHelper</string>
+    <string name="mathBtnText">Math</string>
+    <string name="infoBtnText">Info</string>
+    <string name="author">KoreN-</string>
+    <string name="infoText">Author :</string>
+    <string name="quadratic_equation_text">Quadratic Equation</string>
+    <string name="quadEquationText">ax^2+bx+c=0 equation solving</string>
+    <string name="enterAText">Enter coefficient a :</string>
+    <string name="enterBText">Enter coefficient b :</string>
+    <string name="enterCText">Enter coefficient c :</string>
+    <string name="yourEquationText">Your equation :</string>
+    <string name="solveItText">Solve It!</string>
+    <string name="noSolutions">Equation has no solutions</string>
+</resources>
