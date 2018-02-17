@@ -2,7 +2,7 @@
     <string name="app_name">kHelper</string>
     <string name="mathBtnText">Math</string>
     <string name="infoBtnText">Info</string>
-    <string name="author">KoreN-</string>
+    <string name="author" translatable="false">KoreN-</string>
     <string name="infoText">Author :</string>
     <string name="quadratic_equation_text">Quadratic Equation</string>
     <string name="quadEquationText">ax^2+bx+c=0 equation solving</string>
