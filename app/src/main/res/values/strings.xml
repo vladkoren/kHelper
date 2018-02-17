@@ -12,4 +12,5 @@
     <string name="yourEquationText">Your equation :</string>
     <string name="solveItText">Solve It!</string>
     <string name="noSolutions">Equation has no solutions</string>
+    <string name="aEquals0">A mustn\'t equal 0</string>
 </resources>

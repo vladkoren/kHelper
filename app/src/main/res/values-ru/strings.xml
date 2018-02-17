@@ -12,4 +12,5 @@
     <string name="yourEquationText">"Ваше уравнение : "</string>
     <string name="solveItText">Решить!</string>
     <string name="noSolutions">Уравнение не имеет решений</string>
+    <string name="aEquals0">А не должно быть равно 0</string>
 </resources>

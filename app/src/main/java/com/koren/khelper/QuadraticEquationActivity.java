@@ -27,14 +27,20 @@ public class QuadraticEquationActivity extends AppCompatActivity {
         kA = Integer.parseInt(aEditText.getText().toString());
         kB = Integer.parseInt(bEditText.getText().toString());
         kC = Integer.parseInt(cEditText.getText().toString());
-        D = (Math.pow(kB, 2) - (4*kA*kC));
-        if(D>=0){
-            x1 = ((-1*kB)+Math.sqrt(D))/(2*kA);
-            x2 = ((-1*kB)-Math.sqrt(D))/(2*kA);
-            resultsField.setText("D = " + D + " x1 = " + x1 + " x2 = " + x2);
+        if(kA!=0){
+            D = (Math.pow(kB, 2) - (4*kA*kC));
+            if(D>=0){
+                x1 = ((-1*kB)+Math.sqrt(D))/(2*kA);
+                x2 = ((-1*kB)-Math.sqrt(D))/(2*kA);
+                resultsField.setText("D = " + D + " x1 = " + x1 + " x2 = " + x2);
+            }
+            else {
+                resultsField.setText(getResources().getString(R.string.noSolutions));
+            }
         }
-        else {
-            resultsField.setText(getResources().getString(R.string.noSolutions));
+        else{
+            resultsField.setText(getResources().getString(R.string.aEquals0));
         }
+
     }
 }
