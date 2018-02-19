@@ -8,8 +8,12 @@
     <string name="enterAText">Введите коэфициент а :</string>
     <string name="enterBText">Введите коэфициент b :</string>
     <string name="enterCText">Введите коэфициент c :</string>
-    <string name="yourEquationText">"Ваше уравнение : "</string>
     <string name="solveItText">Решить!</string>
     <string name="noSolutions">Уравнение не имеет решений</string>
     <string name="aEquals0">А не должно быть равно 0</string>
+    <string name="kmhToMs">Км/ч в м/с</string>
+    <string name="convertBtnText">Конвертировать</string>
+    <string name="kmHtext">Км/ч</string>
+    <string name="MsText">м/с</string>
+    <string name="physicsText">Физика</string>
 </resources>

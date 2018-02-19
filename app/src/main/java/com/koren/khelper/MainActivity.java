@@ -28,4 +28,9 @@ public class MainActivity extends AppCompatActivity {
         startActivity(intent);
         
     }
+
+    public void toPhysActivity(View view) {
+        Intent intent = new Intent(MainActivity.this, physicsSelectActivity.class);
+        startActivity(intent);
+    }
 }

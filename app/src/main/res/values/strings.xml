@@ -9,8 +9,12 @@
     <string name="enterAText">Enter coefficient a :</string>
     <string name="enterBText">Enter coefficient b :</string>
     <string name="enterCText">Enter coefficient c :</string>
-    <string name="yourEquationText">Your equation :</string>
     <string name="solveItText">Solve It!</string>
     <string name="noSolutions">Equation has no solutions</string>
     <string name="aEquals0">A mustn\'t equal 0</string>
+    <string name="kmhToMs">Km/H to M/S</string>
+    <string name="convertBtnText">Convert!</string>
+    <string name="kmHtext">Km/h</string>
+    <string name="MsText">m/s</string>
+    <string name="physicsText">Physics</string>
 </resources>

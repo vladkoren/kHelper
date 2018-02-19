@@ -23,9 +23,13 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="com.koren.khelper.InfoActivity" />
+        <activity
+            android:name="com.koren.khelper.InfoActivity"
+            android:theme="@style/Theme.AppCompat.Dialog" />
         <activity android:name="com.koren.khelper.MathSelectActivity" />
         <activity android:name="com.koren.khelper.QuadraticEquationActivity" />
+        <activity android:name="com.koren.khelper.physicsSelectActivity" />
+        <activity android:name="com.koren.khelper.kmhToMs_Activity" />
 
         <meta-data
             android:name="android.support.VERSION"

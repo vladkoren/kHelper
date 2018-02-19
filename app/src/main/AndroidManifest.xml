@@ -16,9 +16,13 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".InfoActivity" />
+        <activity
+            android:name=".InfoActivity"
+            android:theme="@style/Theme.AppCompat.Dialog" />
         <activity android:name=".MathSelectActivity" />
-        <activity android:name=".QuadraticEquationActivity"></activity>
+        <activity android:name=".QuadraticEquationActivity" />
+        <activity android:name=".physicsSelectActivity" />
+        <activity android:name=".kmhToMs_Activity"></activity>
     </application>
 
 </manifest>

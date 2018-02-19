@@ -88,6 +88,10 @@
         "source": "C:\\Users\\vladk\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\9ce95fcc34621b1ceb2c76ba23dd545f\\res\\drawable-xxxhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
     },
     {
+        "merged": "F:\\Projects\\kHelper\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_physics_select.xml.flat",
+        "source": "F:\\Projects\\kHelper\\app\\src\\main\\res\\layout\\activity_physics_select.xml"
+    },
+    {
         "merged": "F:\\Projects\\kHelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
         "source": "C:\\Users\\vladk\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\9ce95fcc34621b1ceb2c76ba23dd545f\\res\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
     },
@@ -282,6 +286,10 @@
     {
         "merged": "F:\\Projects\\kHelper\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
         "source": "F:\\Projects\\kHelper\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\Projects\\kHelper\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_kmh_to_ms_.xml.flat",
+        "source": "F:\\Projects\\kHelper\\app\\src\\main\\res\\layout\\activity_kmh_to_ms_.xml"
     },
     {
         "merged": "F:\\Projects\\kHelper\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_info.xml.flat",

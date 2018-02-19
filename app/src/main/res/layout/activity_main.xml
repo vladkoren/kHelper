@@ -28,5 +28,14 @@
             android:layout_alignParentBottom="true"
             android:layout_alignParentEnd="true"
             android:text="@string/infoBtnText" />
+
+        <Button
+            android:id="@+id/physBtn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignStart="@+id/mathBtn"
+            android:layout_centerVertical="true"
+            android:onClick="toPhysActivity"
+            android:text="@string/physicsText" />
     </RelativeLayout>
 </android.support.constraint.ConstraintLayout>
