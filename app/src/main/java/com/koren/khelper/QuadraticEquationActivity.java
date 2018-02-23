@@ -24,9 +24,9 @@ public class QuadraticEquationActivity extends AppCompatActivity {
     }
 
     public void solveIt(View view) {
-        kA = Integer.parseInt(aEditText.getText().toString());
-        kB = Integer.parseInt(bEditText.getText().toString());
-        kC = Integer.parseInt(cEditText.getText().toString());
+        kA = Double.parseDouble(aEditText.getText().toString());
+        kB = Double.parseDouble(bEditText.getText().toString());
+        kC = Double.parseDouble(cEditText.getText().toString());
         if(kA!=0){
             D = (Math.pow(kB, 2) - (4*kA*kC));
             if(D>=0){
