@@ -22,7 +22,9 @@
         <activity android:name=".MathSelectActivity" />
         <activity android:name=".QuadraticEquationActivity" />
         <activity android:name=".physicsSelectActivity" />
-        <activity android:name=".kmhToMs_Activity"></activity>
+        <activity android:name=".kmhToMs_Activity" />
+        <activity android:name=".otherSelectActivity" />
+        <activity android:name=".wordInverter_Activity"></activity>
     </application>
 
 </manifest>

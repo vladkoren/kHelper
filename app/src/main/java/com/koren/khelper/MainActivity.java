@@ -33,4 +33,9 @@ public class MainActivity extends AppCompatActivity {
         Intent intent = new Intent(MainActivity.this, physicsSelectActivity.class);
         startActivity(intent);
     }
+
+    public void toOtherActivity(View view) {
+        Intent intent = new Intent(MainActivity.this, otherSelectActivity.class);
+        startActivity(intent);
+    }
 }

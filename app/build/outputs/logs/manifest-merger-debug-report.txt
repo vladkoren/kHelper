@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from F:\Projects\kHelper\app\src\main\AndroidManifest.xml:2:1-28:12
-INJECTED from F:\Projects\kHelper\app\src\main\AndroidManifest.xml:2:1-28:12
-INJECTED from F:\Projects\kHelper\app\src\main\AndroidManifest.xml:2:1-28:12
-INJECTED from F:\Projects\kHelper\app\src\main\AndroidManifest.xml:2:1-28:12
+ADDED from F:\Projects\kHelper\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from F:\Projects\kHelper\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from F:\Projects\kHelper\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from F:\Projects\kHelper\app\src\main\AndroidManifest.xml:2:1-30:12
 MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\vladk\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\9ce95fcc34621b1ceb2c76ba23dd545f\AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\vladk\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\d130dc3154915390f5070526ab5ed1f8\AndroidManifest.xml:2:1-11:12
 MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\vladk\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\5f6ee7d4007c3577ebab7c5a63e2f3e4\AndroidManifest.xml:17:1-28:12
@@ -15,25 +15,25 @@ MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\vladk\.grad
 MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\vladk\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\4f71fa6ee83bc873a7edb15c2bcaa8a5\AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-compat:26.1.0] C:\Users\vladk\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\8d0e7caeaf7c27dea746a2e2865590b2\AndroidManifest.xml:17:1-31:12
 MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\vladk\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\1259ed111fdf62acc2791236b3e5bc11\AndroidManifest.xml:17:1-30:12
-INJECTED from F:\Projects\kHelper\app\src\main\AndroidManifest.xml:2:1-28:12
-INJECTED from F:\Projects\kHelper\app\src\main\AndroidManifest.xml:2:1-28:12
-INJECTED from F:\Projects\kHelper\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from F:\Projects\kHelper\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from F:\Projects\kHelper\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from F:\Projects\kHelper\app\src\main\AndroidManifest.xml:2:1-30:12
 	package
 		ADDED from F:\Projects\kHelper\app\src\main\AndroidManifest.xml:3:5-32
 		INJECTED from F:\Projects\kHelper\app\src\main\AndroidManifest.xml
 		INJECTED from F:\Projects\kHelper\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from F:\Projects\kHelper\app\src\main\AndroidManifest.xml
-		ADDED from F:\Projects\kHelper\app\src\main\AndroidManifest.xml:2:1-28:12
+		ADDED from F:\Projects\kHelper\app\src\main\AndroidManifest.xml:2:1-30:12
 		INJECTED from F:\Projects\kHelper\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from F:\Projects\kHelper\app\src\main\AndroidManifest.xml
-		ADDED from F:\Projects\kHelper\app\src\main\AndroidManifest.xml:2:1-28:12
+		ADDED from F:\Projects\kHelper\app\src\main\AndroidManifest.xml:2:1-30:12
 		INJECTED from F:\Projects\kHelper\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from F:\Projects\kHelper\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from F:\Projects\kHelper\app\src\main\AndroidManifest.xml:5:5-26:19
+ADDED from F:\Projects\kHelper\app\src\main\AndroidManifest.xml:5:5-28:19
 MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\vladk\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\9ce95fcc34621b1ceb2c76ba23dd545f\AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\vladk\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\9ce95fcc34621b1ceb2c76ba23dd545f\AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\vladk\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\d130dc3154915390f5070526ab5ed1f8\AndroidManifest.xml:9:5-20
@@ -101,9 +101,17 @@ ADDED from F:\Projects\kHelper\app\src\main\AndroidManifest.xml:24:9-59
 	android:name
 		ADDED from F:\Projects\kHelper\app\src\main\AndroidManifest.xml:24:19-56
 activity#com.koren.khelper.kmhToMs_Activity
-ADDED from F:\Projects\kHelper\app\src\main\AndroidManifest.xml:25:9-63
+ADDED from F:\Projects\kHelper\app\src\main\AndroidManifest.xml:25:9-54
 	android:name
 		ADDED from F:\Projects\kHelper\app\src\main\AndroidManifest.xml:25:19-51
+activity#com.koren.khelper.otherSelectActivity
+ADDED from F:\Projects\kHelper\app\src\main\AndroidManifest.xml:26:9-57
+	android:name
+		ADDED from F:\Projects\kHelper\app\src\main\AndroidManifest.xml:26:19-54
+activity#com.koren.khelper.wordInverter_Activity
+ADDED from F:\Projects\kHelper\app\src\main\AndroidManifest.xml:27:9-68
+	android:name
+		ADDED from F:\Projects\kHelper\app\src\main\AndroidManifest.xml:27:19-56
 uses-sdk
 INJECTED from F:\Projects\kHelper\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from F:\Projects\kHelper\app\src\main\AndroidManifest.xml

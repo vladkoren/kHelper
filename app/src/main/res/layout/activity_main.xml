@@ -37,5 +37,15 @@
             android:layout_centerVertical="true"
             android:onClick="toPhysActivity"
             android:text="@string/physicsText" />
+
+        <Button
+            android:id="@+id/toOtherActivity"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignStart="@+id/physBtn"
+            android:layout_below="@+id/physBtn"
+            android:layout_marginTop="20dp"
+            android:onClick="toOtherActivity"
+            android:text="@string/otherBtn" />
     </RelativeLayout>
 </android.support.constraint.ConstraintLayout>

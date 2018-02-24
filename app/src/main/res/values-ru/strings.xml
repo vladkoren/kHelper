@@ -16,4 +16,8 @@
     <string name="kmHtext">Км/ч</string>
     <string name="MsText">м/с</string>
     <string name="physicsText">Физика</string>
+    <string name="wordInverterBtn">Переворачиватель слов</string>
+    <string name="otherBtn">Другое</string>
+    <string name="enterWordTxt">Введите слово(а)</string>
+    <string name="invertBtnText">Перевернуть</string>
 </resources>

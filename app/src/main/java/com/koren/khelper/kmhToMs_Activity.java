@@ -15,12 +15,12 @@ public class kmhToMs_Activity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_kmh_to_ms_);
-        inputField = findViewById(R.id.inputField);
+        inputField = findViewById(R.id.inputInvertField);
         outputField = findViewById(R.id.outPutTextV);
     }
 
     public void convert(View view) {
-        double temp = Integer.parseInt(inputField.getText().toString());
+        double temp = Double.parseDouble(inputField.getText().toString());
         double output = (temp*5)/18;
         outputField.setText(String.format("%s", output));
     }

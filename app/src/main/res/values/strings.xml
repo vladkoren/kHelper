@@ -17,4 +17,8 @@
     <string name="kmHtext">Km/h</string>
     <string name="MsText">m/s</string>
     <string name="physicsText">Physics</string>
+    <string name="wordInverterBtn">Word Inverter</string>
+    <string name="otherBtn">Other</string>
+    <string name="enterWordTxt">Enter word(s)</string>
+    <string name="invertBtnText">Invert!</string>
 </resources>

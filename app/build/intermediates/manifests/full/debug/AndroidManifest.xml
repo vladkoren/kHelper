@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.koren.khelper"
-    android:versionCode="3"
-    android:versionName="1.2.2" >
+    android:versionCode="4"
+    android:versionName="1.3" >
 
     <uses-sdk
         android:minSdkVersion="21"
@@ -30,6 +30,8 @@
         <activity android:name="com.koren.khelper.QuadraticEquationActivity" />
         <activity android:name="com.koren.khelper.physicsSelectActivity" />
         <activity android:name="com.koren.khelper.kmhToMs_Activity" />
+        <activity android:name="com.koren.khelper.otherSelectActivity" />
+        <activity android:name="com.koren.khelper.wordInverter_Activity" />
 
         <meta-data
             android:name="android.support.VERSION"
